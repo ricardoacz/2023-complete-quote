@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/2023-complete-quote/static/css/main.bcb531d5.css",
-    "main.js": "/2023-complete-quote/static/js/main.ddfcfa83.js",
+    "main.js": "/2023-complete-quote/static/js/main.1eab5ac2.js",
     "static/js/787.77741c36.chunk.js": "/2023-complete-quote/static/js/787.77741c36.chunk.js",
     "static/media/miles_spiderman.gif": "/2023-complete-quote/static/media/miles_spiderman.3b7027a73d7c990ad91f.gif",
     "static/media/across_the_spider-verse.jpg": "/2023-complete-quote/static/media/across_the_spider-verse.94f09f7a54ada589c144.jpg",
     "static/media/logo.svg": "/2023-complete-quote/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/2023-complete-quote/index.html",
     "main.bcb531d5.css.map": "/2023-complete-quote/static/css/main.bcb531d5.css.map",
-    "main.ddfcfa83.js.map": "/2023-complete-quote/static/js/main.ddfcfa83.js.map",
+    "main.1eab5ac2.js.map": "/2023-complete-quote/static/js/main.1eab5ac2.js.map",
     "787.77741c36.chunk.js.map": "/2023-complete-quote/static/js/787.77741c36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcb531d5.css",
-    "static/js/main.ddfcfa83.js"
+    "static/js/main.1eab5ac2.js"
   ]
 }
