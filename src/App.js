@@ -15,7 +15,7 @@ function App() {
 
   function handleSubmit (e) {
     e.preventDefault()
-    if (text.toLowerCase() === "i'm gonna do my own thing") {
+    if (text.toLowerCase() === "i'm gonna do my own thing" || text.toLowerCase() === "i’m gonna do my own thing") {
       setDisplay(false)
       setDisplay2(true)
     }
